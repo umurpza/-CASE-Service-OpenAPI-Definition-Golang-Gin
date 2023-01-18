@@ -1,7 +1,7 @@
 package main
 
 import (
-	sw "_case_api/go"
+	sw "_case_api/src/router"
 	"github.com/gin-gonic/gin"
 	"github.com/go-openapi/runtime/middleware"
 	"log"
